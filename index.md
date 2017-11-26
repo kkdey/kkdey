@@ -19,7 +19,7 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 <table class="wide">
 <tr>
 <td class="left">
-    <img id="frontphoto" src="assets/bigpublpics/dp1.jpg" width="300" height="300" alt="" />
+    <img id="frontphoto" src="assets/bigpublpics/dp2.png" width="300" height="300" alt="" />
 </td>
 <td class="left">
 <br><b> Kushal K Dey </b>
