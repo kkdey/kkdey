@@ -8,15 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Soudeep Deb
+title : Kushal K Dey
 author :
-  name : Soudeep Deb
+  name : Kushal K Dey
   email : kshldey@gmail.com
-  github : soudeepd
+  github : kkdey
   twitter : kanishkadey
   feedburner : nil
 
-production_url : http://kbroman.github.io
+production_url : http://kkdey.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
