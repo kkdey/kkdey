@@ -1,79 +1,34 @@
 ---
 layout: page
 title: about
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+description: Kushal K Dey is a researcher in statistical genetics
 ---
 
-Karl Broman is Professor in the
-[Department of Biostatistics &amp; Medical Informatics](http://www.biostat.wisc.edu)
-at the University of Wisconsin&ndash;Madison;
-research in statistical genetics; developer of
-[R/qtl](http://www.rqtl.org) (for [R](http://www.r-project.org)).
+# Hi, this is Kushal
 
-Karl received a BS in [mathematics](http://www4.uwm.edu/letsci/math/)
-in 1991, from the
-University of Wisconsin&ndash;Milwaukee, and a
-PhD in [statistics](http://www.stat.berkeley.edu) in 1997, from the
-University of California, Berkeley; his PhD advisor was
-[Terry Speed](http://www.wehi.edu.au/faculty_members/professor_terry_speed).
-He was a postdoctoral fellow with [James Weber](https://www.preventiongenetics.com/about-us/senior-staff/) at the
-[Marshfield Clinic Research Foundation](http://research.marshfieldclinic.org),
-1997-1999. He
-was a faculty member in the [Department of Biostatistics](http://www.jhsph.edu/departments/biostatistics/) at Johns
-Hopkins University, 1999-2007. In 2007, he moved to the
-[University of Wisconsin&ndash;Madison](http://www.wisc.edu),
-where he is now Professor.
+I am currently a graduate student at University of Chicago, Department of Statistics and working in [Matthew Stephens lab](http://stephenslab.uchicago.edu/). My primary research area is Statistical genomics, in particular, analyzing RNA-seq data and trying to investigate the cell-type or tissue-type effects from multiple sample single cell/ bulk RNA sequencing. Besides this, I am also working on Ancient DNA data analysis, phylogenetics and metagenomics data.
 
-Karl is a Senior Editor for [_Genetics_](http://www.genetics.org),
-Academic Editor for [_PeerJ_](http://peerj.com), and
-a member of the [_BMC Biology_](http://bmcbiol.biomedcentral.com)
-[Editorial Board](http://bmcbiol.biomedcentral.com/about/editorial-board).
+Besides, I have been actively involved in applications of statistics to nano sciences and medical sciences. I had the fortune of working on statistical applications in systems biology as an intern in [Bison Lab, ETH Zurich](http://www.bison.ethz.ch/people/heinz_koeppl/heinz_koeppl) under Prof. Heinz Koeppl in 2013. In theoretical statistics, my past works include developing an efficient clustering algorithm  under hidden subpopulations, methods for improved statistical quality control and building the theroretical background on optimal scaling and ergodic nature of a rival simulation algorithm to MCMC, called TMCMC (transformation based Markov Chain Monte Carlo). 
 
-Karl is an applied statistician focusing on problems in genetics and
-genomics &ndash; particularly the analysis of meiotic recombination and the
-genetic dissection of complex traits in experimental organisms. The
-latter is often called &ldquo;QTL mapping.&rdquo; A QTL is a
-_quantitative trait locus_ &ndash; a genetic locus that influences a
-quantitative trait. Recently he has been focusing on the development
-of interactive data visualizations for high-dimensional genetic data;
-see his [R/qtlcharts package](http://kbroman.org/qtlcharts) and
-his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
+Before coming to University of Chicago, I did my undergraduate and Masters in Statistics at the Indian Statistical Institute. For my masters dissertation, I worked on Bayesian computation and TMCMC with [Dr.Sourabh Bhattacharya](http://www.isical.ac.in/~biru/sb.html).
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf)
+<td class="left">
+    <img id="frontphoto" src="word_cloud.png" width="500" height="500" alt="" />
+</td>
 
-[orcid](http://orcid.org): [0000-0002-4914-6671](http://orcid.org/0000-0002-4914-6671)
-
-[google scholar](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=42tCp5UAAAAJ&view_op=list_works)
-
-[impactstory](https://impactstory.org/u/0000-0002-4914-6671)
-
----
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            Karl Broman<br/>
-            <a href="http://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="http://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="http://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
-            Madison, Wisconsin 53706<br/>
-            USA<br/><br/>
-
-            <div id="hide_email">
-            Email: <code>kbro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
-            </b><code>stat</code><b>So</b><code>.</code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 608-262-4633
-            </div>
-        </div>
-
-        <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+            Kushal K Dey<br/>
+            <a href="https://galton.uchicago.edu/">Department of Statistics</a><br/>
+            <a href="http://genes.uchicago.edu/">Department of Human Genetics</a><br/>
+            920 E. 58th Strt, CLSC<br/>
+            Chicago, IL 60615<br/>
+            USA<br/>
+	    Email: kkdey@uchicago.edu, kkdey@galton.uchicago.edu<br/>
         </div>
     </div>
 </div>

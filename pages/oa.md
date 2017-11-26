@@ -17,11 +17,6 @@ from
 Vice Provost for Libraries and University Librarian.
 
 
-On 16 Nov 2015, the
-[University Library Committee](https://www.library.wisc.edu/about/university-library-committee/)
-adopted a [resolution](../assets/oa_resolution_v3.pdf) in favor of an
-Open Access Policy for UW-Madison. [![pdf](icons16/pdf-icon.png)](../assets/oa_resolution_v3.pdf)
-
 ### Current UW policies
 
 - [Intellectual property policies and procedures for university research](https://kb.wisc.edu/images/group156/32996/12.15IntellectualPropertyPoliciesandProceduresforUniversityResearch.pdf),
@@ -83,16 +78,4 @@ ex/g27-copyrightable-instructions-materials-ownership-use-and-control/),
   \[[policy](http://osc.universityofcalifornia.edu/open-access-policy/policy-text/)
   | [repository](http://www.escholarship.org/) | [FAQ](http://osc.universityofcalifornia.edu/open-access-policy/policy-faq/)\]
 
-  - [List of journals that have requested waivers from the UC policy](http://osc.universityofcalifornia.edu/open-access-policy/publisher-communications/)
-
 - [Annotated/deconstructed version of those policies](http://kbroman.org/pages/annotated_oa.html)
-
-- [University of Illinois Urbana-Champaign policy](http://www.senate.illinois.edu/sc1512.pdf)
-
-- [(Incomplete) list of universities with open access policies](https://libraries.mit.edu/scholarly/mit-open-access/open-access-at-mit/mit-open-access-policy/mit-faculty-open-access-policy-faq/other-university-policies/)
-
-<style>
-ul ul li {
-  margin: 0 0 10px 0;
-}
-</style>
