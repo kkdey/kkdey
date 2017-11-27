@@ -23,7 +23,7 @@ The following is a list of softwares I have developed over the recent years-
 
 ### <a name="Logolas"></a>[Logolas](https://github.com/kkdey/Logolas)
 
-R package  (with D. Xie and M. Stephens)
+* R package  (with D. Xie and M. Stephens)
 
 Author and Maintainer
 
@@ -39,7 +39,7 @@ Title : Flexible and Customized Logo Plots using symbols, alphabets, numbers and
 
 ### <a name="CorShrink"></a>[CorShrink](https://github.com/kkdey/CorShrink)
 
-R package (with M. Stephens)
+* R package (with M. Stephens)
 
 Author and Maintainer 
 
@@ -52,7 +52,7 @@ Title: R package for adaptive correlation and covariance matrix shrinkage.
 
 ### <a name="aRchaic"></a>[aRchaic](https://github.com/kkdey/aRchaic)
 
-R/python software interface (with H. Al-Asadi)
+* R/python software interface (with H. Al-Asadi)
 
 Author and Maintainer
 
@@ -65,7 +65,7 @@ Title : Exploration, clustering, visualization and classification of DNA damage 
 
 ### <a name="methClust"></a>[methClust](https://github.com/kkdey/aRchaic)
 
-R package
+* R package
 
 Author and Maintainer
 
@@ -76,7 +76,7 @@ Title: Grade of Membership clustering in methylation data.
 
 ### <a name="tmcmcR"></a>[tmcmcR](https://github.com/kkdey/tmcmcR)
 
-R package (with S. Bhattacharya)
+* R package (with S. Bhattacharya)
 
 Author and Maintainer
 
