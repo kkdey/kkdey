@@ -29,9 +29,8 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 <br><i> Matthew Stephens Lab </i>
 <br>
 <br> <b> Research Interest </b>: Statistical Genomics, Topic Models,
-                           <br>  Clustering, Classification, Markov Chains,
-                           <br>  Adaptive Shrinkage, Smoothing,
-                           <br>  Ecology, Ancient DNA
+                <br>  Clustering, Classification, Markov Chains, Adaptive
+                <br>  Smoothing, Ecology, Ancient DNA
 </td>
 </tr>
 </table>
