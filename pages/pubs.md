@@ -8,7 +8,7 @@ description: Kushal K Dey's publications
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#articles">Publications</a></li>
-            <li><a href="#thesis">Dissertation</a></li>
+            <li><a href="#dissertation">Dissertation</a></li>
         </ul>
     </div>
 </div>
