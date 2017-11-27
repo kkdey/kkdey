@@ -1,6 +1,6 @@
 ---
 layout: page
-title: talks
+title: recognition
 description: Kushal K Dey's talks
 ---
 
