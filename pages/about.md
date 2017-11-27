@@ -6,11 +6,11 @@ description: Kushal K Dey is a researcher in stat
 
 # Hi, this is Kushal
 
-I am a 5th year Ph.D. student in Statistics at the University of Chicago, working in [Matthew Stephens lab](http://stephenslab.uchicago.edu/). My research is primarily aimed at building statistical and machine learning tools to tackle applied problems originating from the fields of genomics, population genetics, ecology and natural language processing. For an overview of my research work, please check my [Research] page. 
+I am a 5th year Ph.D. student in Statistics at the University of Chicago, working under [Matthew Stephens](http://stephenslab.uchicago.edu/). My research primarily involves building statistical and machine learning tools to tackleapplied problems originating from the fields of genomics, population genetics, ecology and natural language processing. For an overview of my research work, please check my [Research] page. 
 
-I have previously worked as a Visiting Student in [Gottardo Lab, Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en/labs/profiles/gottardo-raphael.html) during summer 2017 and in [Koeppl Lab](http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp) in summer 2013.
+I have previously worked as a Visiting Student in [Gottardo Lab, Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en/labs/profiles/gottardo-raphael.html) during the summer of 2017 and in [Koeppl Lab](http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp) in summer 2013.
 
-I did my undergraduate an Masters in Statistics at the [Indian Statistical Institute, Kolkata](http://www.isical.ac.in/) where I worked on statistical theory involving Markov Chains for my masters thesis  (under [Dr.Sourabh Bhattacharya](http://www.isical.ac.in/~biru/sb.html))  as well as applied statistical work in nano sciences and medical sciences. 
+I did my undergraduate and Masters in Statistics at the [Indian Statistical Institute, Kolkata](http://www.isical.ac.in/) where I worked on statistical theory related to Markov Chains for my masters thesis  (under [Dr.Sourabh Bhattacharya](http://www.isical.ac.in/~biru/sb.html))  as well as applied statistical work in nano sciences and medicalsciences. 
 
 <p></p>
 
