@@ -13,7 +13,7 @@ Besides, I have been actively involved in applications of statistics to nano sci
 Before coming to University of Chicago, I did my undergraduate and Masters in Statistics at the Indian Statistical Institute. For my masters dissertation, I worked on Bayesian computation and TMCMC with [Dr.Sourabh Bhattacharya](http://www.isical.ac.in/~biru/sb.html).
 
 <td class="left">
-    <img id="frontphoto" src="word_cloud.png" width="500" height="500" alt="" />
+    <img id="frontphoto" src="wordcloud.svg" width="500" height="500" alt="" />
 </td>
 
 
