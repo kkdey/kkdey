@@ -28,9 +28,10 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 <br> University of Chicago
 <br><i> Matthew Stephens Lab </i>
 <br>
-<br> <b> Research Interest </b>: Statistical Genomics, Clustering,
-                           <br> Markov Chains, Meta Analysis, Shrinkage
-			   <br> Metagenomics, Phylogenetics
+<br> <b> Research Interest </b>: Statistical Genomics, Topic Models,
+                           <br>  Clustering, Classification, Markov Chains,
+                           <br>  Adaptive Shrinkage, Smoothing,
+                           <br>  Ecology, Ancient DNA
 </td>
 </tr>
 </table>
