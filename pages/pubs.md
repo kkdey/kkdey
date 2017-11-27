@@ -7,8 +7,8 @@ description: Kushal K Dey's publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#articles">articles</a></li>
-            <li><a href="#thesis">dissertation</a></li>
+            <li><a href="#articles">Publications</a></li>
+            <li><a href="#thesis">Dissertation</a></li>
         </ul>
     </div>
 </div>
@@ -34,7 +34,7 @@ AL Tarca, M Lauria, M Unger, E Bilal, S Boue, **KK Dey**, J Hoeng et al. Strengt
 
 ### <a name="articles"></a> Other Publications
 
-**KK Dey**, S Bhattacharya . A Brief Review of Optimal Scaling of the Main MCMC Approaches and Optimal Scaling of Additive TMCMC Under Non-Regular Cases. Accepted. *Brazilian Journal of Probability and Statistics*. 2017. [![pdf](icons16/pdf-icon.png)](https://arxiv.org/abs/1405.0913)
+**KK Dey**, S Bhattacharya . A Brief Review of Optimal Scaling of the Main MCMC Approaches and Optimal Scaling of Additive TMCMC Under Non-Regular Cases. Accepted. *Brazilian Journal of Probability and Statistics*. 2017. [![pdf](icons16/pdf-icon.png)](http://imstat.org/bjps/papers/BJPS386.pdf)
 
 
 B Karmakar, K Dhara, **KK Dey**, A Basu, AK Ghosh. Tests for statistical significance of a treatment effect in the presence of hidden sub-populations. *Statistical Methods & Applications*.March 2015, Volume 24, Issue 1, pp 97-119. [![pdf](icons16/pdf-icon.png)](http://download.springer.com/static/pdf/415/art%253A10.1007%252Fs10260-014-0271-x.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10260-014-0271-x&token2=exp=1441243965~acl=%2Fstatic%2Fpdf%2F415%2Fart%25253A10.1007%25252Fs10260-014-0271-x.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs10260-014-0271-x*~hmac=cd363f8e32ef2c906e64c309b2e85906ddf84da19c4f9722261efa4c358f8295)
@@ -59,7 +59,10 @@ S Pradhan, P Patra, S Das, S Chandra, S Mitra, **KK Dey**, S Akbar, P Palit, A G
 
 SR Choudhury, **KK Dey**, S Bera, A Goswami. Colloidal stability and coagulation kinetics study of different sized sulphur nanoparticles. *Journal of Experimental Nanoscience*, 8 (3), 2013. [site](http://www.tandfonline.com/doi/abs/10.1080/17458080.2012.667161#.Veeki9NViko)
 
+### <a name="dissertation"></a> Dissertation
 
+
+**KK Dey**. On ergodic behaviour of Additive Transformation based Markov Chain Monte Carlo. *Masters Dissertation Thesis*. ISI Kolkata (under Prof. S. Bhattacharya) [![pdf](icons16/pdf-icon.png)](thesis.pdf)
 
 
 
