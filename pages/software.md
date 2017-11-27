@@ -25,65 +25,65 @@ The following is a list of softwares I have developed over the recent years-
 
 * R package  (with D. Xie and M. Stephens)
 
-Author and Maintainer
+  Author and Maintainer
 
-Title : Flexible and Customized Logo Plots using symbols, alphabets, numbers and alphanumeric strings.
+  Title : Flexible and Customized Logo Plots using symbols, alphabets, numbers    and alphanumeric strings.
 
-[Bioc Version](https://bioconductor.org/packages/release/bioc/html/Logolas.html)
+  [Bioc Version](https://bioconductor.org/packages/release/bioc/html/Logolas.html)
 
-- top $50\%$ in less than one year on Bioc with $> 750$ downloads
+  - top $50\%$ in less than one year on Bioc with $> 750$ downloads
 
-[Github Version](https://github.com/kkdey/Logolas)
+  [Github Version](https://github.com/kkdey/Logolas)
 
-[Project Page](https://kkdey.github.io/Logolas-pages/)
+  [Project Page](https://kkdey.github.io/Logolas-pages/)
 
 ### <a name="CorShrink"></a>[CorShrink](https://github.com/kkdey/CorShrink)
 
 * R package (with M. Stephens)
 
-Author and Maintainer 
+  Author and Maintainer 
 
-Title: R package for adaptive correlation and covariance matrix shrinkage.
+  Title: R package for adaptive correlation and covariance matrix shrinkage.
 
-[Github Version](https://github.com/kkdey/CorShrink)
+  [Github Version](https://github.com/kkdey/CorShrink)
 
-[Project Page](https://kkdey.github.io/CorShrink-pages/)
+  [Project Page](https://kkdey.github.io/CorShrink-pages/)
 
 
 ### <a name="aRchaic"></a>[aRchaic](https://github.com/kkdey/aRchaic)
 
 * R/python software interface (with H. Al-Asadi)
 
-Author and Maintainer
+  Author and Maintainer
 
-Title : Exploration, clustering, visualization and classification of DNA damage patterns.
+  Title : Exploration, clustering, visualization and classification of DNA damage patterns.
 
-[Github Version](https://github.com/kkdey/aRchaic)
+  [Github Version](https://github.com/kkdey/aRchaic)
 
-[Project Page](https://kkdey.github.io/aRchaic/)
+  [Project Page](https://kkdey.github.io/aRchaic/)
 
 
 ### <a name="methClust"></a>[methClust](https://github.com/kkdey/aRchaic)
 
 * R package
 
-Author and Maintainer
+  Author and Maintainer
 
-Title: Grade of Membership clustering in methylation data.
+  Title: Grade of Membership clustering in methylation data.
 
-[Github Version](https://github.com/kkdey/aRchaic)
+  [Github Version](https://github.com/kkdey/aRchaic)
 
 
 ### <a name="tmcmcR"></a>[tmcmcR](https://github.com/kkdey/tmcmcR)
 
 * R package (with S. Bhattacharya)
 
-Author and Maintainer
+  Author and Maintainer
 
-Title : Trasnformation based Markov Chain Monte Carlo
+  Title : Trasnformation based Markov Chain Monte Carlo
 
-[Github Version](https://github.com/kkdey/tmcmcR)
+  [Github Version](https://github.com/kkdey/tmcmcR)
 
-[tmcmcR vignette](https://rpubs.com/kkdey/132076)
+  [tmcmcR vignette](https://rpubs.com/kkdey/132076)
 
 
