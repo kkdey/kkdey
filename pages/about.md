@@ -12,6 +12,11 @@ I have previously worked as a Visiting Student in [Gottardo Lab, Fred Hutchinson
 
 I did my undergraduate an Masters in Statistics at the [Indian Statistical Institute, Kolkata](http://www.isical.ac.in/) where I worked on statistical theory involving Markov Chains for my masters thesis  (under [Dr.Sourabh Bhattacharya](http://www.isical.ac.in/~biru/sb.html))  as well as applied statistical work in nano sciences and medical sciences. 
 
+<p></p>
+
+Below is a word cloud of my research areas, projects and softwares
+
+<p></p>
 
 <td class="left">
     <img id="frontphoto" src="wordcloud.svg" width="500" height="500" alt="" />
