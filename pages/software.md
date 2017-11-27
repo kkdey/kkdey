@@ -8,53 +8,82 @@ The following is a list of softwares I have developed over the recent years-
 
 ### <a name="CountClust"></a>[CountClust](https://github.com/kkdey/CountClust)
 
-**Version**: 0.0.1
-**License**: GPL (>=2)
+* R package (with C.J. Hsiao and M. Stephens)
 
-An [R](http://www.r-project.org/) package to perform, visualize and annotate clustering of counts data using graded membership model.
+  Author and Maintainer
+  
+  Title : Clustering and Visualizing RNA-Seq Expression Data using Grade of   Membership Models
 
-Check the [Github page](https://github.com/kkdey/CountClust) for codes, description and related documentation.
+  [Bioc Version](https://bioconductor.org/packages/release/bioc/html/CountClust.html)
 
-For vignettes on implementation of this software, check [CountClust vignette](http://rpubs.com/kkdey/128757)
+  - top 20 $\%$ in less than 2 years on Bioc with $> 5000$ downloads
+
+  [Github Version](https://github.com/kkdey/CountClust)
+
+
+### <a name="Logolas"></a>[Logolas](https://github.com/kkdey/Logolas)
+
+R package  (with D. Xie and M. Stephens)
+
+Author and Maintainer
+
+Title : Flexible and Customized Logo Plots using symbols, alphabets, numbers and alphanumeric strings.
+
+[Bioc Version](https://bioconductor.org/packages/release/bioc/html/Logolas.html)
+
+- top $50\%$ in less than one year on Bioc with $> 750$ downloads
+
+[Github Version](https://github.com/kkdey/Logolas)
+
+[Project Page](https://kkdey.github.io/Logolas-pages/)
+
+### <a name="CorShrink"></a>[CorShrink](https://github.com/kkdey/CorShrink)
+
+R package (with M. Stephens)
+
+Author and Maintainer 
+
+Title: R package for adaptive correlation and covariance matrix shrinkage.
+
+[Github Version](https://github.com/kkdey/CorShrink)
+
+[Project Page](https://kkdey.github.io/CorShrink-pages/)
+
+
+### <a name="aRchaic"></a>[aRchaic](https://github.com/kkdey/aRchaic)
+
+R/python software interface (with H. Al-Asadi)
+
+Author and Maintainer
+
+Title : Exploration, clustering, visualization and classification of DNA damage patterns.
+
+[Github Version](https://github.com/kkdey/aRchaic)
+
+[Project Page](https://kkdey.github.io/aRchaic/)
+
+
+### <a name="methClust"></a>[methClust](https://github.com/kkdey/aRchaic)
+
+R package
+
+Author and Maintainer
+
+Title: Grade of Membership clustering in methylation data.
+
+[Github Version](https://github.com/kkdey/aRchaic)
 
 
 ### <a name="tmcmcR"></a>[tmcmcR](https://github.com/kkdey/tmcmcR)
 
-**Version**: 0.1.2
-**License**: GPL (>=2)
+R package (with S. Bhattacharya)
 
-An [R/C++](https://cran.r-project.org/web/packages/Rcpp/index.html) package to perform transformation based Markov Chain Monte Carlo (TMCMC) approaches. Besides TMCMC and standard RWMH, it also has implementations of various adaptive versions of TMCMC and RWMH (SCAM, RAMA and Atchade's methods) and Metropolis coupling versions (fixed and randomized update).
+Author and Maintainer
 
-Check the [Github page](https://github.com/kkdey/tmcmcR) for codes, description and related documentation.
+Title : Trasnformation based Markov Chain Monte Carlo
 
-Check the [README](https://github.com/kkdey/tmcmcR/blob/master/README.md) for package description and 
-functions.
+[Github Version](https://github.com/kkdey/tmcmcR)
 
-For vignettes on implementation of this software, check [tmcmcR vignette](https://rpubs.com/kkdey/132076)
-
-For introduction to the methods and materials of TMCMC, along with results on ergodicity and optimal scaling properties,
-check [Dey and Bhattacharya 2014](http://arxiv.org/pdf/1408.6667v1.pdf), [Dey and Bhattacharya 2015](http://imstat.org/bjps/papers/BJPS295.pdf), [Dey and Bhattacharya](http://arxiv.org/pdf/1307.1446v4.pdf) and [Dutta and Bhattacharya 2014](http://arxiv.org/abs/1106.5850).
-
-### <a name="cellcycleR"></a>[cellcycleR](https://github.com/kkdey/cellcycleR)
-
-**Version**: 0.0.1
-**License**: GPL (>=2)
-
-
-An [R](http://www.r-project.org/) package to perform re-ordering of single cells on the cell cycle based on sinusoidal cell-cycle gene patterns, tested both for synchronized and unsynchronized single cell experiments.
-
-For vignette and example use  of *cellcycleR*, check the [README](https://github.com/kkdey/cellcycleR/blob/master/README.md).
-
-For various single cell applications of **cellcycleR**, check *cellcyleR applications* [here](http://jhsiao999.github.io/singleCell-method/).
-
-### <a name="ash-cor"></a>[ash-cor](https://github.com/kkdey/ash_stan/utilities)
-
-An [R](http://www.r-project.org/) pipeline for performing adaptive shrinkage on correlation matrix using [ash](https://github.com/stephens999/ashr/) due to Matthew Stephens. Check the R package **ashr** for documentation and details on how to use the adaptive shrinkage method.
-
-Our approach builds on the **ashr** approach and shrinks a correlation matrix. Check the
-
-* [source script](https://github.com/kkdey/ash_stan/blob/master/utilities/ash_cor.R)
-* [example use](https://github.com/kkdey/ash_stan/blob/master/utilities/example_ash_cor.R)
-* [READ ME](https://github.com/kkdey/ash_stan/blob/master/utilities/ash_cor_README)
+[tmcmcR vignette](https://rpubs.com/kkdey/132076)
 
 
