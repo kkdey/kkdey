@@ -16,7 +16,7 @@ The following is a list of softwares I have developed over the recent years-
 
   [Bioc Version](https://bioconductor.org/packages/release/bioc/html/CountClust.html)
 
-  - top 20 $\%$ in less than 2 years on Bioc with $> 5000$ downloads
+  - top 20 % in less than 2 years on Bioc with > 5000 downloads
 
   [Github Version](https://github.com/kkdey/CountClust)
 
@@ -31,7 +31,7 @@ The following is a list of softwares I have developed over the recent years-
 
   [Bioc Version](https://bioconductor.org/packages/release/bioc/html/Logolas.html)
 
-  - top $50\%$ in less than one year on Bioc with $> 750$ downloads
+  - top 50 % in less than one year on Bioc with > 750 downloads
 
   [Github Version](https://github.com/kkdey/Logolas)
 
