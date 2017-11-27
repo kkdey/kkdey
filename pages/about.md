@@ -1,16 +1,17 @@
 ---
 layout: page
 title: about
-description: Kushal K Dey is a researcher in statistical genetics
+description: Kushal K Dey is a researcher in stat
 ---
 
 # Hi, this is Kushal
 
-I am currently a graduate student at University of Chicago, Department of Statistics and working in [Matthew Stephens lab](http://stephenslab.uchicago.edu/). My primary research area is Statistical genomics, in particular, analyzing RNA-seq data and trying to investigate the cell-type or tissue-type effects from multiple sample single cell/ bulk RNA sequencing. Besides this, I am also working on Ancient DNA data analysis, phylogenetics and metagenomics data.
+I am a 5th year Ph.D. student in Statistics at the University of Chicago, working in [Matthew Stephens lab](http://stephenslab.uchicago.edu/). My research is primarily aimed at building statistical and machine learning tools to tackle applied problems originating from the fields of genomics, population genetics, ecology and natural language processing. For an overview of my research work, please check my [Research] page. 
 
-Besides, I have been actively involved in applications of statistics to nano sciences and medical sciences. I had the fortune of working on statistical applications in systems biology as an intern in [Bison Lab, ETH Zurich](http://www.bison.ethz.ch/people/heinz_koeppl/heinz_koeppl) under Prof. Heinz Koeppl in 2013. In theoretical statistics, my past works include developing an efficient clustering algorithm  under hidden subpopulations, methods for improved statistical quality control and building the theroretical background on optimal scaling and ergodic nature of a rival simulation algorithm to MCMC, called TMCMC (transformation based Markov Chain Monte Carlo). 
+I have previously worked as a Visiting Student in [Gottardo Lab, Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en/labs/profiles/gottardo-raphael.html) during summer 2017 and in [Koeppl Lab](http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp) in summer 2013.
 
-Before coming to University of Chicago, I did my undergraduate and Masters in Statistics at the Indian Statistical Institute. For my masters dissertation, I worked on Bayesian computation and TMCMC with [Dr.Sourabh Bhattacharya](http://www.isical.ac.in/~biru/sb.html).
+I did my undergraduate an Masters in Statistics at the [Indian Statistical Institute, Kolkata](http://www.isical.ac.in/) where I worked on statistical theory involving Markov Chains for my masters thesis  (under [Dr.Sourabh Bhattacharya](http://www.isical.ac.in/~biru/sb.html))  as well as applied statistical work in nano sciences and medical sciences. 
+
 
 <td class="left">
     <img id="frontphoto" src="wordcloud.svg" width="500" height="500" alt="" />
