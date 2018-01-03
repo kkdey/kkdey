@@ -31,6 +31,11 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 <br> <b> Research Interest </b>: Statistical Genomics, Topic Models,
                 <br>  Clustering, Classification, Markov Chains, Adaptive
                 <br>  Smoothing, Ecology, Ancient DNA
+<br> 
+<br> <b> Awards </b> :
+<br> <i> David Wallace Award in Applied Statistics, 2016 </i>
+<br> <i> Graduate Arts, Science + Culture Collaboration Grant 2017-18 </i>
+
 </td>
 </tr>
 </table>
