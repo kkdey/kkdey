@@ -19,18 +19,17 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 <table class="wide">
 <tr>
 <td class="left">
-    <img id="frontphoto" src="assets/bigpublpics/dp2.jpg" width="350" height="350" alt="" />
+    <img id="frontphoto" src="assets/bigpublpics/dp2.jpg" width="300" height="300" alt="" />
 </td>
 <td class="left">
 <br><b> Kushal K Dey </b>
-<br> PhD,
-<br> Dept of Statistics
+<br> PhD,Dept of Statistics
 <br> University of Chicago
 <br><i> Matthew Stephens Lab </i>
 <br>
 <br> <b> Research Interest </b>: Statistical Genomics, Topic Models,
-                <br>  Clustering, Classification, Markov Chains, Adaptive
-                <br>  Smoothing, Ecology, Ancient DNA
+                <br>  Clustering, Classification, Adaptive Methods,
+                <br>  Statistical Ecology, Ancient DNA
 <br> 
 <br> <b> Awards </b> :
 <br> <i> David Wallace Award in Applied Statistics, 2016 </i>
