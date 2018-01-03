@@ -34,7 +34,7 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 <br> 
 <br> <b> Awards </b> :
 <br> <i> David Wallace Award in Applied Statistics, 2016 </i>
-<br> <i> Graduate Arts, Science + Culture Collaboration Grant 2017-18 </i>
+<br> <i> Graduate Arts, Science + Culture Grant, 17-18 </i>
 
 </td>
 </tr>
