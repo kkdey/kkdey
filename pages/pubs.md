@@ -18,7 +18,7 @@ description: Kushal K Dey's publications
 
 **KK Dey**, C.J. Hsiao, M. Stephens. Visualizing the structure of RNA-seq expression data using grade of membership models. *PLoS Genetics*. 2017. 13(3): e1006599. [![pdf](icons16/pdf-icon.png)](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006599)
 
-**KK Dey**, D. Xie, M. Stephens. A new Sequence logo plot to highlight enrichment and depletion. *submitted*. 
+**KK Dey**, D. Xie, M. Stephens. A new Sequence logo plot to highlight enrichment and depletion. *submitted*. [![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/early/2017/11/29/226597)
 
 **KK Dey**, M. Stephens. *CorShrink* : an adaptive strategy for shrinking correlations. *In preparation*.
 
