@@ -23,7 +23,7 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 </td>
 <td class="left">
 <br><b> Kushal K Dey </b>
-<br> PhD,Dept of Statistics
+<br> PhD, Dept of Statistics
 <br> University of Chicago
 <br><i> Matthew Stephens Lab </i>
 <br>
