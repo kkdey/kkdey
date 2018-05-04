@@ -40,6 +40,27 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 </table>
 
 
+## News
+
+- **September 2018** : Starting as a Postdoctoral Researcher in Alkes Price Lab, Harvard Scool of Public Health.
+
+- **May 11, 2018** : Presenting poster on `Black Magazines in 1960-1970s American History` at the Conference on New Aspect of Statistics, Financial Econometrics, and Data Science, to be held at Stevanovich Center, University of Chicago.
+[event details](https://stevanovichcenter.uchicago.edu/page/new-aspects-statistics-financial-econometrics-and-data-science).
+
+- **May 9, 2018**  : Presenting  at Graduate Arts, Science + Culture Collaboration grant event : [event details](https://arts.uchicago.edu/event/arts-science-culture-graduate-collaboration-grant-final-presentations-0).
+
+- **May 8, 2018**  : Presenting poster on `Black Magazines As a Mirror to 1960-1970s American History` at Mind Bytes: Research Computing Expo and Symposium. [event details](https://mindbytes.uchicago.edu/callforposters.php)
+
+- **May 1, 2018** :  Updated release versions of my packages [CountClust](https://bioconductor.org/packages/release/bioc/html/CountClust.html) and [Logolas](https://bioconductor.org/packages/release/bioc/html/Logolas.html) in Bioconductor 3.7. 
+
+- **April 30, 2018** : R package [Logolas](https://bioconductor.org/packages/release/bioc/html/Logolas.html) now among
+the top 5 $%$ downloaded packages on Bioconductor !
+
+
+
+
+
+
 <!--
 
 <table class="wide">
