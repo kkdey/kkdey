@@ -54,7 +54,7 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 - **May 1, 2018** :  Updated release versions of my packages [CountClust](https://bioconductor.org/packages/release/bioc/html/CountClust.html) and [Logolas](https://bioconductor.org/packages/release/bioc/html/Logolas.html) in Bioconductor 3.7. 
 
 - **April 30, 2018** : R package [Logolas](https://bioconductor.org/packages/release/bioc/html/Logolas.html) now among
-the top 5 $\%$ downloaded packages on Bioconductor !
+the top 5 % downloaded packages on Bioconductor !
 
 
 
