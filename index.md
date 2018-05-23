@@ -44,6 +44,11 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 
 - **September 2018** : Starting as a Postdoctoral Researcher in Alkes Price Lab, Harvard Scool of Public Health.
 
+- **May 22, 2018** : My preprint on model based inference and 
+visualization of ancient DNA damage patterns (with co-authors 
+Hussein Al-Asadi, John Novembre and Matthew Stephens) is now
+out ! Check [here](https://www.biorxiv.org/content/early/2018/05/21/327684).
+
 - **May 11, 2018** : Presenting poster on `Black Magazines in 1960-1970s American History` at the Conference on New Aspect of Statistics, Financial Econometrics, and Data Science, to be held at Stevanovich Center, University of Chicago.
 [event details](https://stevanovichcenter.uchicago.edu/page/new-aspects-statistics-financial-econometrics-and-data-science).
 
